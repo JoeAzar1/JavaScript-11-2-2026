@@ -1,0 +1,5 @@
+console.log(10+5);              15
+console.log("10"+5);            105
+console.log(10/4);              2.5
+console.log(10%4);              2
+console.log(typeof "true");     string
